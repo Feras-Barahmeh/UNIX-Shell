@@ -1,0 +1,9 @@
+فراس فادي عزمي صاق مصطفى
+	- I searched to main skeleton and libraries.
+	- and serched how i can clear terminal when first open.
+	- serched how i can display promaent 
+	- serched how can read command.
+	- serched string method in c language
+	- how we can get string parameter
+	- how i can set color in erorr
+	
